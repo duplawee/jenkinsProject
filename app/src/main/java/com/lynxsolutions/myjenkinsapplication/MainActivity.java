@@ -40,3 +40,5 @@ public class MainActivity extends ActionBarActivity {
 
 //new line
 //second new line
+//its all active????
+//first let me commit
